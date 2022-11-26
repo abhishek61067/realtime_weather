@@ -1,0 +1,2 @@
+completed except the daily and hourly section because the key only works for
+ the general data and not hourly and daily unless you have a paid subscription.
